@@ -1,0 +1,8 @@
+college-chatbot/
+│
+├── college_chatbot.py      # Your Streamlit chatbot code
+├── college_faqs.csv       # Sample dataset with 50+ Q&A pairs
+├── requirements.txt       # Python dependencies
+├── README.md              # Project description and instructions
+├── LICENSE                # MIT License file
+└── .gitignore             # Git ignore rules
